@@ -1,0 +1,16 @@
+{
+  "name": "socket.io-rps",
+  "version": "0.0.0",
+  "description": "A Rock, Paper, Scissors game",
+  "main": "index.js",
+  "private": true,
+  "license": "RPS",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "~4.17.1",
+    "socket.io": "^4.0.0"
+  },
+  "scripts": {
+    "start": "node index.js"
+  }
+}

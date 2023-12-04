@@ -1,7 +1,7 @@
 ## Running server
 1. Ensure that Node JS >14.0 is installed
 2. Open root (index.js) directory
-3. Run ```npm run start```
+3. Run ```npm i && npm run start```
 
 ## Documentation
 Initialization of [socket.io](http://socket.io/) client:
